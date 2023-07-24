@@ -1,0 +1,285 @@
+
+.depicter-revert.depicter-8 .depicter-section{
+	min-height:150px;
+}
+.depicter-revert.depicter-8 .depicter-layers-wrapper{
+	padding-left:100px;
+	padding-right:100px;
+}
+.depicter-revert .depicter-8-element-7{
+	font-size:34px;
+	color:#FFFFFF;
+	font-family:"Poppins";
+	font-weight:500;
+	line-height:140%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-6{
+	background-color:#008000;
+	border-radius:5px;
+}
+.depicter-revert .depicter-8-element-4{
+	font-size:20px;
+	text-align:left;
+	color:#FFFFFF;
+	font-family:"Poppins";
+	font-weight:500;
+	line-height:120%;
+	letter-spacing:2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-4:not(.depicter-hover-off):hover {
+	color:#008000;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-3{
+	font-size:28px;
+	text-align:left;
+	color:#FFFFFF;
+	font-family:"Poppins";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-3:not(.depicter-hover-off):hover {
+	color:#008000;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-8-section-1 .depicter-section-background::after{
+	content:"";
+	display:block;
+	position:absolute;
+	top:0;
+	bottom:0;
+	right:0;
+	left:0;
+	z-index:1;
+	background-color:rgba(0, 0, 0, 0.24);
+}
+.depicter-revert .depicter-8-element-12{
+	font-size:34px;
+	color:#FFFFFF;
+	font-family:"Poppins";
+	font-weight:500;
+	line-height:140%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-11{
+	background-color:#008000;
+	border-radius:5px;
+}
+.depicter-revert .depicter-8-element-10{
+	font-size:20px;
+	text-align:left;
+	color:#FFFFFF;
+	font-family:"Poppins";
+	font-weight:500;
+	line-height:120%;
+	letter-spacing:2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-10:not(.depicter-hover-off):hover {
+	color:#008000;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-9{
+	font-size:28px;
+	text-align:left;
+	color:#FFFFFF;
+	font-family:"Poppins";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-9:not(.depicter-hover-off):hover {
+	color:#008000;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-section-8 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-8-section-8 .depicter-section-background::after{
+	content:"";
+	display:block;
+	position:absolute;
+	top:0;
+	bottom:0;
+	right:0;
+	left:0;
+	z-index:1;
+	background-color:rgba(0, 0, 0, 0.24);
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert.depicter-8 .depicter-section{
+	min-height:150px;
+}
+.depicter-revert .depicter-8-element-7{
+	font-size:34px;
+	color:#FFFFFF;
+	font-family:"Poppins";
+	font-weight:500;
+	line-height:140%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-6{
+	background-color:#008000;
+}
+.depicter-revert .depicter-8-element-3{
+	font-size:28px;
+	text-align:left;
+	color:#FFFFFF;
+	font-family:"Poppins";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-8-section-1 .depicter-section-background::after{
+	content:"";
+	display:block;
+	position:absolute;
+	top:0;
+	bottom:0;
+	right:0;
+	left:0;
+	z-index:1;
+	background-color:rgba(0, 0, 0, 0.24);
+}
+.depicter-revert .depicter-8-element-12{
+	font-size:34px;
+	color:#FFFFFF;
+	font-family:"Poppins";
+	font-weight:500;
+	line-height:140%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-11{
+	background-color:#008000;
+}
+.depicter-revert .depicter-8-element-9{
+	font-size:28px;
+	text-align:left;
+	color:#FFFFFF;
+	font-family:"Poppins";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-section-8 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-8-section-8 .depicter-section-background::after{
+	content:"";
+	display:block;
+	position:absolute;
+	top:0;
+	bottom:0;
+	right:0;
+	left:0;
+	z-index:1;
+	background-color:rgba(0, 0, 0, 0.24);
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert.depicter-8 .depicter-section{
+	min-height:150px;
+}
+.depicter-revert .depicter-8-element-7{
+	font-size:25px;
+	color:#FFFFFF;
+	font-family:"Poppins";
+	font-weight:500;
+	line-height:140%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-6{
+	background-color:#008000;
+}
+.depicter-revert .depicter-8-element-4{
+	font-size:15px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Poppins";
+	font-weight:500;
+	line-height:120%;
+	letter-spacing:2px;
+}
+.depicter-revert .depicter-8-element-3{
+	font-size:18px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Poppins";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-8-section-1 .depicter-section-background::after{
+	content:"";
+	display:block;
+	position:absolute;
+	top:0;
+	bottom:0;
+	right:0;
+	left:0;
+	z-index:1;
+	background-color:rgba(0, 0, 0, 0.24);
+}
+.depicter-revert .depicter-8-element-12{
+	font-size:25px;
+	color:#FFFFFF;
+	font-family:"Poppins";
+	font-weight:500;
+	line-height:140%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-11{
+	background-color:#008000;
+}
+.depicter-revert .depicter-8-element-10{
+	font-size:15px;
+	text-align:left;
+	color:#FFFFFF;
+	font-family:"Poppins";
+	font-weight:500;
+	line-height:120%;
+	letter-spacing:2px;
+}
+.depicter-revert .depicter-8-element-9{
+	font-size:15px;
+	text-align:left;
+	color:#FFFFFF;
+	font-family:"Poppins";
+	font-weight:500;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-section-8 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-8-section-8 .depicter-section-background::after{
+	content:"";
+	display:block;
+	position:absolute;
+	top:0;
+	bottom:0;
+	right:0;
+	left:0;
+	z-index:1;
+	background-color:rgba(0, 0, 0, 0.24);
+}
+
+}

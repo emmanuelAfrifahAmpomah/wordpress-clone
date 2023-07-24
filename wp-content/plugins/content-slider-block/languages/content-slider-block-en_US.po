@@ -1,0 +1,530 @@
+# Copyright (C) 2022 bPlugins LLC
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Content Slider Block 3.0.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/content-slider-block\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-30T10:29:19+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: content-slider-block\n"
+
+#. Plugin Name of the plugin
+msgid "Content Slider Block"
+msgstr ""
+
+#. Description of the plugin
+msgid "Display your goal to your visitor in bountiful way with content slider block."
+msgstr ""
+
+#. Author of the plugin
+msgid "bPlugins LLC"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://bplugins.com"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6205
+msgid "Left"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6206
+msgid "Center"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6207
+msgid "Right"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6208
+msgid "Justify"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6212
+msgid "Slide"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6213
+msgid "Fade"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6214
+msgid "Creative"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6225
+msgid "General"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6226
+#: dist/editor.js:6481
+msgid "Options"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6227
+msgid "Style"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6267
+#: dist/editor.js:6269
+msgid "Pro"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6302
+msgid "Help"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6304
+msgid "Read Documentation"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6309
+msgid "Would you please rate us?"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6310
+msgid "We are new and we need your help to grow!🙏"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6316
+msgid "Add or Remove Slides"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6321
+msgid "Background"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6323
+#: dist/editor.js:6520
+msgid "Border:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6326
+msgid "Content Position"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6329
+msgid "You can also change the content position by dragging element."
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6332
+msgid "Title:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6333
+msgid "Slide title"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6336
+msgid "Title Color:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6338
+msgid "Description:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6339
+msgid "Description of the slider"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6341
+msgid "Description Color:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6344
+msgid "Button Text:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6345
+msgid "Button label"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6349
+msgid "Button Link:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6350
+msgid "Button link"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6353
+msgid "Button Colors:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6355
+msgid "Button Hover Colors:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6358
+#: dist/editor.js:6361
+msgid "Remove"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6363
+#: dist/editor.js:6366
+msgid "Duplicate"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6372
+#: dist/editor.js:6530
+msgid "Add New Slide"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6377
+msgid "Layout Settings"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6379
+msgid "Columns:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6384
+msgid "Column Gap:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6387
+msgid "Width:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6389
+msgid "Height:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6395
+msgid "Basic Options"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6396
+msgid "Enable Loop"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6398
+msgid "Enable Touch Move"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6399
+msgid "Switch slide with grab in anywhere in slide"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6400
+msgid "Touch Move will not work in backend"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6402
+msgid "Speed & Delay (s):"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6404
+msgid "Smaller speed & delay value will be slide faster"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6408
+msgid "Autoplay"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6409
+msgid "Enable Autoplay"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6410
+msgid "Autoplay will not work in backend"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6413
+msgid "Delay (s):"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6415
+msgid "Disable on Interaction"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6416
+msgid "Pause on Mouse Enter"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6417
+msgid "Reverse Direction"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6418
+msgid "Stop on Last Slide"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6423
+msgid "Free Mode"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6424
+msgid "Enable Free Mode"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6425
+msgid "Sticky"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6429
+msgid "Effects"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6431
+msgid "Effect:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6435
+msgid "To work fade & creative effects properly, set single column per view"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6439
+msgid "Keyboard Control"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6440
+msgid "Enable Keyboard Control"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6444
+msgid "Mousewheel"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6445
+msgid "Slide on Mousewheel"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6449
+msgid "Pagination"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6450
+msgid "Show Pagination"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6453
+#: dist/editor.js:6467
+msgid "Show On Tablet"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6454
+#: dist/editor.js:6468
+msgid "Show On Mobile"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6456
+msgid "Enable Pagination Clickable"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6458
+msgid "Enable Pagination Dynamic Bullets"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6463
+msgid "Navigation"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6464
+msgid "Show Preview Next Button"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6475
+msgid "Slider"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6476
+msgid "Background:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6477
+#: dist/editor.js:6518
+msgid "Padding:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6483
+msgid "Pagination Bullets Color:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6485
+msgid "Pagination Width:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6487
+msgid "Pagination Height:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6489
+msgid "Pagination Border:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6492
+msgid "Preview Next Button Color:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6496
+msgid "Slide Title"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6497
+msgid "Show Title"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6503
+msgid "Slide Description"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6504
+msgid "Show Description"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6510
+msgid "Slide Button"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6511
+msgid "Show Button"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6514
+msgid "Open link in new tab"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6534
+msgid "Slider in left"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6535
+msgid "Slider in center"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6536
+msgid "Slider in right"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6541
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6544
+msgid "Learn More"
+msgstr ""
+
+#: block.json
+msgctxt "block title"
+msgid "Content Slider"
+msgstr ""
+
+#: block.json
+msgctxt "block description"
+msgid "Display slider in a beautiful way."
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "carousel slider"
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "content carousel"
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "custom slider"
+msgstr ""
